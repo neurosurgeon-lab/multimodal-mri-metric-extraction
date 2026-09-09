@@ -11,7 +11,7 @@ authors:
   - given-names: "Huawei"
     family-names: "Zhang"
     affiliation: "Department of Neurosurgery, Beijing Chao-Yang Hospital, Capital Medical University, Beijing 100020, China"
-repository-code: "https://github.com/Neurosurgeon-huawei/multimodal-mri-metric-extraction"
+repository-code: "https://github.com/neurosurgeon-lab/multimodal-mri-metric-extraction"
 keywords:
   - multimodal MRI
   - neuroimaging

@@ -11,6 +11,10 @@ authors:
   - given-names: "Huawei"
     family-names: "Zhang"
     affiliation: "Department of Neurosurgery, Beijing Chao-Yang Hospital, Capital Medical University, Beijing 100020, China"
+  - given-names: "Changqing"
+    family-names: "Liu"
+    affiliation: "Department of Neurosurgery, Beijing Chao-Yang Hospital, Capital Medical University, Beijing 100020, China"
+    orcid: "https://orcid.org/0009-0000-4510-8128"
 repository-code: "https://github.com/neurosurgeon-lab/multimodal-mri-metric-extraction"
 keywords:
   - multimodal MRI

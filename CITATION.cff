@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Multimodal MRI Metric Extraction"
+version: 1.0.0
+type: software
+license: MIT
+abstract: >-
+  Reproducible workflows for extracting structural MRI, diffusion MRI,
+  resting-state functional MRI, and arterial spin labeling metrics.
+authors:
+  - given-names: "Huawei"
+    family-names: "Zhang"
+    affiliation: "Department of Neurosurgery, Beijing Chao-Yang Hospital, Capital Medical University, Beijing 100020, China"
+repository-code: "https://github.com/Neurosurgeon-huawei/multimodal-mri-metric-extraction"
+keywords:
+  - multimodal MRI
+  - neuroimaging
+  - structural MRI
+  - diffusion MRI
+  - resting-state fMRI
+  - arterial spin labeling

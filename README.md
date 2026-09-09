@@ -1,5 +1,7 @@
 # Multimodal MRI metric extraction code
 
+[![DOI](https://zenodo.org/badge/1363094921.svg)](https://doi.org/10.5281/zenodo.22681564)
+
 This folder contains the public, data-free implementation used to derive the
 T1, DTI/CST, resting-state fMRI motor-network, and ASL ROI metrics represented
 in Figure A. It does not contain participant images, result tables, private
